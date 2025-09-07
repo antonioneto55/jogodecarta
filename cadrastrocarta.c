@@ -3,9 +3,11 @@
 int main(){
 
 char estado;
-char codigo da cart;
-char valor da cart;
+char codigo_da_cart;
+char valor_da_cart;
+char nome_do_banco;
                         
+--TIRANDO OS ESPACOS DAS VARIAVEIS-- 
 
 
 
