@@ -3,8 +3,10 @@
 int main(){
 
 char estado;
-char codigo da cart;
-char valor da cart;
+char codigo_da_carta;
+float populacao;
+float area;
+
                         
 
 
