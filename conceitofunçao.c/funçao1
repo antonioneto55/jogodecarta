@@ -1,0 +1,43 @@
+#include <stdio.h> 
+
+  int main(){
+    /*funçoes genericas*/
+
+    void entrada_de_dados(){
+ /*codigo de entrada de dados*/
+        
+    };
+
+    /*funçao de calculo*/
+
+   float calcularMedia(){
+        /*codigo da media*/
+
+    };
+
+    /*funçao de exibir media*/
+
+    void exibirMedia(){
+        /*codigo de exibir media*/
+
+    };
+
+    int main(){
+        entrada_de_dados();
+       float media = calcularMedia();
+        exibirMedia();
+
+        return 0;
+    }
+    
+
+
+
+
+
+
+
+
+
+    
+}
