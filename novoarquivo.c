@@ -12,7 +12,7 @@ char opçao = 's';
 
 printf("A idade do %s é: %d\n", nome, idade);
 printf("A altura é: %.2f\n", altura);
-printf("A opçao é %c\n, opçao");
+printf("A opçao é: %c\n", opçao);
 
 
 
