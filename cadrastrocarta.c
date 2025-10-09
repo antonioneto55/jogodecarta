@@ -95,7 +95,9 @@ int main(){
             printf("\n\n A carta 2 é maior que a carta 1 \n\n");
         }
          printf("valor da populaçao da carta vencedora: %ld \n", (pop > pop2) ? pop : pop2);
-    
+     
+                printf("Jogo finalizado! \n");
+                
     return 0;
 
 }
